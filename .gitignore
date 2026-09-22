@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.mp4
+.idea/
+.vscode/
+.pytest_cache/
+
+# AI / Agent files
+*.md
+!README.md
+!DECISIONS.md
+!ASSIGNMENT.md
+.gemini
+.ai
